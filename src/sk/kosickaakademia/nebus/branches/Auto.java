@@ -3,7 +3,13 @@ package sk.kosickaakademia.nebus.branches;
 public class Auto {
     String name;
 
-    public Auto(String name){
-        this.name = name;
+    public void hello()
+    {
+        // sout
+    }
+    
+    public Auto(String nameXXX){
+        //hello
+        this.name = nameXXX;
     }
 }
